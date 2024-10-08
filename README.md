@@ -1,5 +1,5 @@
 # React + Vite
 # To run the Project follow these instructions
-## clone the repositort
-## npm install
-## npm run dev
+## 1-clone the repositort
+## 2-npm install
+## 3-npm run dev
